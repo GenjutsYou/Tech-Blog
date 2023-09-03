@@ -43,4 +43,4 @@ For any questions or inquiries, please reach out to me:
 
 ## Link
 
-[Tech-Blog](https://github.com/GenjutsYou/Tech-Blog)
+[Tech-Blog](https://git.heroku.com/mvc-genjutsyou.git)
